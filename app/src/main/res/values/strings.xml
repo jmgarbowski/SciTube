@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SciTube</string>
+    <string name="error_oops">Oops, something went wrong!</string>
+</resources>
